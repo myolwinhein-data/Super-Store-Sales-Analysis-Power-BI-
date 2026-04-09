@@ -18,4 +18,5 @@ Based on the 4-year dataset to understand the sale market and grow more sales in
 - Apply slicers and charts to get meanful insights.
 
 ## Dashboard
-https://github.com/myolwinhein-data/Super-Store-Sales-Analysis-Power-BI-/blob/main/dashboard.png
+<img width="1327" height="741" alt="dashboard" src="https://github.com/user-attachments/assets/641eb9ac-dfec-4cab-8e59-4569494c04bf" />
+
